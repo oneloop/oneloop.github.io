@@ -719,6 +719,15 @@
   background-color: #0D47A1 !important;
 }
 
+.blue.hyperloop-dark {
+  background-color: #073F7F !important;
+}
+
+.blue.hyperloop-light {
+  background-color: #094697 !important;
+}
+
+
 .blue-text.text-darken-4 {
   color: #0D47A1 !important;
 }
@@ -742,6 +751,7 @@
 .blue.accent-3 {
   background-color: #2979FF !important;
 }
+
 
 .blue-text.text-accent-3 {
   color: #2979FF !important;
@@ -2591,7 +2601,8 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+ /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;*/
+font-family: 'Comfortaa', cursive;
 }
 
 ul:not(.browser-default) {
@@ -4488,7 +4499,8 @@ a {
 
 html {
   line-height: 1.5;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+ /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;*/
+font-family: 'Comfortaa', cursive;
   font-weight: normal;
   color: rgba(0, 0, 0, 0.87);
 }
